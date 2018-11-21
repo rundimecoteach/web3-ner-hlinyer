@@ -1,0 +1,24 @@
+['Edgar', 'Allan', 'Poe', 'Poe', 'Allan']
+['The Fall of the House of Usher', '" The Tell - Tale Heart "', 'The Tell - Tale Heart', '" The Fall of the House of Usher , "', 'Ligeia', 'The Murders in the Rue Morgue', 'The Gold Bug', "The Black Cat '", 'The Black Cat', '" The Philosophy of Composition , "', '" The Poetic Principle "', 'The Rationale of Verse', 'The Cask of Amontillado', 'The Bells', 'a Nobel Prize', "' The Sound and the Fury '", 'As I Lay Dying']
+
+['Lovecraft', 'Lovecraft', 'H.P.', 'Edgar', 'Allan']
+['The Call of Cthulhu', 'The Case of Charles Dexter Ward', 'a Nobel Prize', "' The Sound and the Fury '", 'As I Lay Dying']
+
+['Stephen', 'King', 'Carrie', 'Richard', 'Bachman']
+["The Shining '", 'Early Life and Education', 'The Running Man', 'The Green Mile']
+
+['Tolkien', 'Tolkien', 'J.R.R.', 'Mabel', 'Arthur']
+["' The Hobbit '", "' The Lord of the Rings '", 'The Fellowship of the Ring', 'The Return of the King']
+
+['Martin', 'R.', 'Martin', 'George', 'Tolkien']
+["' A Song of Ice and Fire", "' Game of Thrones", 'the A Song of Ice and Fire series', 'The Twilight Zone', 'A Song for Lya and Others', 'Beauty and the Beast', 'A Song of Ice and Fire', '“ The Fellowship of the Ring']
+
+['Harry', 'Potter', 'J.K.', 'Rowling', 'Robert']
+['Harry Potter', 'A History of Magic', "the Chamber of Secrets '", "the Goblet of Fire '", 'the Goblet of Fire', 'The Fringe Benefits of Failure', 'the Chamber of Secrets', 'Amber Heard', '“ The Fellowship of the Ring', "The Shining '", '‘ The Left Hand of Darkness,’ ‘', 'The Farthest Shore.’ D.H. Lawrence']
+
+['Martin', 'Beatles', 'George', 'Martin', 'McCartney']
+['The Best Of Sellers', 'Songs for Swinging Sellers', "LP Songs for Swingin ' Lovers!).[18 ]", 'The Goon Show', 'An African Incident', 'From Me to You', '" Love Me Do "', 'As " Love Me Do "', 'Please Please Me', 'Love Me Do', 'Penny Lane', 'Theme One', 'The Long and Winding Road', 'The Man in the Bowler Hat (', 'The Beatles Concerto', 'Ticket To Heaven', 'the Grammy Award for Best Musical Show Album', 'Love', 'All You Need is Ears', 'Summer of Love : The Making of Sgt Pepper', 'Making Music : The Guide to Writing , Performing and Recording .', 'Playback', 'The Rhythm of Life', 'Master of Arts degree']
+
+['Doyle', 'Sherlock', 'Holmes', 'Louisa', 'Jean']
+['The Mystery of Sasassa Valley', 'Duet', 'The Great Shadow', 'The Sign of Four', 'The Adventures of Sherlock Holmes', 'The Memoirs of Sherlock Holmes', 'The Hound of Baskervilles', 'The Casebook of Sherlock Holmes .']
+
