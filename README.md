@@ -1,5 +1,5 @@
-Geoffrey Mignonnet
-Linyer Hector
+Geoffrey Mignonneau /
+Linyer Hector /
 Marceau Alexis
 
 # Récupération des auteurs et de leurs oeuvres
